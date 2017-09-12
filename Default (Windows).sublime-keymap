@@ -1,0 +1,5 @@
+[
+    { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+    { "keys": ["ctrl+alt+q"], "command": "toggle_record_macro" },
+    { "keys": ["ctrl+q"], "command": "exit"}
+]
